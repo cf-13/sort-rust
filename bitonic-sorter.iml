@@ -7,7 +7,11 @@
       <sourceFolder url="file://$MODULE_DIR$/../bitonic-sorter\examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../bitonic-sorter\tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../bitonic-sorter\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../sort-rust\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../sort-rust\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../sort-rust\benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../sort-rust\target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
